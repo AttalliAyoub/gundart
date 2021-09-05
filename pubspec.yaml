@@ -10,7 +10,6 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_js: ^0.5.0+2
 
 dev_dependencies:
   flutter_test:
@@ -24,6 +23,8 @@ flutter:
 
   # To add assets to your package, add an assets section, like this:
   # assets:
+  #   - gun/
+  #   - js/gun.min.js
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
   #
